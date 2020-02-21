@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ec53a7-e995-42b9-bd2a-feb137cf9b0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XOS8GvX5tt8H31Zy01CvTJTggu" />
@@ -64,12 +66,28 @@
       <workItem from="1580915491111" duration="793000" />
       <workItem from="1581503919896" duration="59000" />
     </task>
+    <task id="LOCAL-00001" summary="Test1">
+      <created>1582279023617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582279023617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="138" key="CommitChangelistDialog2" timestamp="1582279023395">
+      <screen x="0" y="23" width="1617" height="1027" />
+    </state>
+    <state x="392" y="138" key="CommitChangelistDialog2/0.23.1617.1027@0.23.1617.1027" timestamp="1582279023395" />
     <state width="1419" height="280" key="GridCell.Tab.0.bottom" timestamp="1580980963998">
       <screen x="0" y="23" width="1387" height="877" />
     </state>
@@ -86,5 +104,13 @@
       <screen x="0" y="23" width="1387" height="877" />
     </state>
     <state width="1419" height="280" key="GridCell.Tab.0.right/0.23.1387.877/-555.-1417.2560.1417@0.23.1387.877" timestamp="1580980963997" />
+    <state x="601" y="254" key="RollbackChangesDialog" timestamp="1582279078909">
+      <screen x="0" y="23" width="1617" height="1027" />
+    </state>
+    <state x="601" y="254" key="RollbackChangesDialog/0.23.1617.1027@0.23.1617.1027" timestamp="1582279078909" />
+    <state x="408" y="265" key="Vcs.Push.Dialog.v2" timestamp="1582279034754">
+      <screen x="0" y="23" width="1617" height="1027" />
+    </state>
+    <state x="408" y="265" key="Vcs.Push.Dialog.v2/0.23.1617.1027@0.23.1617.1027" timestamp="1582279034754" />
   </component>
 </project>
