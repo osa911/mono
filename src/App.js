@@ -9,7 +9,7 @@ function App() {
         Header
       </header>
       <iframe src="https://api.monobank.ua/" width={500} height={500}>
-        some text
+        some text for test1 !
       </iframe>
     </div>
   );
